@@ -22,13 +22,6 @@ API: OpenWeatherMap
 Replace this with an actual screenshot of your app
 
 🔧 Installation & Usage
-Clone the repo
-
-bash
-Copy
-Edit
-git clone https://github.com/your-username/weather-web-app.git
-cd weather-web-app
 Get your OpenWeatherMap API key
 
 Sign up at openweathermap.org
